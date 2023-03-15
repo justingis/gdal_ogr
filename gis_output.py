@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        gis_output.py
-# Description:     Gets coordinates for point layers
+# Description: Converts GIS layers to various output formats such as csv and xlsx
 #
 # Author:      Justin Hawley (justin.hawley777@gmail.com)
 #
