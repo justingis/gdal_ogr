@@ -14,7 +14,7 @@ Currently we do not know of a way to install GDAL/OGR library directly into a Py
 
 The installation steps originally came from this web article: https://medium.com/@egiron/how-to-install-gdal-and-qgis-on-macos-catalina-ca690dca4f91
 
-These insstallation steps have been tested on a MacBook Pro with the following specs:
+These installation steps have been tested on a MacBook Pro with the following specs:
   - macOS Ventura 13.2.1 with 
   - Apple M1 Chip
   - Memory: 16 GB
