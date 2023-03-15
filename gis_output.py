@@ -6,7 +6,7 @@
 #
 # Created:     03/12/2023
 #
-# Interpreter: /GDAL-OGR/venv/bin/python3
+# Interpreter: /gdal_ogr/venv/bin/python3
 #-------------------------------------------------------------------------------
 
 import csv
