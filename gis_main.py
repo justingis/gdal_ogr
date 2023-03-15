@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        gis_main.py
-# Description:     Gets coordinates for point layers
+# Description: Useful GIS tools
 #
 # Author:      Justin Hawley (justin.hawley777@gmail.com)
 #
