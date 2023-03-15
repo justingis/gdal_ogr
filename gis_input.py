@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        gis_input.py
-# Description:     Gets coordinates for point layers
+# Description: Gets input GIS data and creates layers that can be passed to the gis_analysis.py module
 #
 # Author:      Justin Hawley (justin.hawley777@gmail.com)
 #
