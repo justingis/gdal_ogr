@@ -1,7 +1,7 @@
 # gdal_ogr
 Python geoprocessing library built with the GDAL/OGR translator library
 
-Intro:
+
 GDAL (Geospatial Data Abstraction Library) and OGR (Simple Features Library) are open-source librares for reading, writing, and manipulating GIS data. Over 200 raster and vector data formats are supported. The library is written in C++ and has bindings for many other programming languages such as Python.
 While numerous GIS Python libraries are built on top of the GDAL/OGR library, using the library directly in Python has some advantages. 
   1. Performance - GDAL/OGR is a lower-level library versus higher level libraries such as GeoPandas. This can have advantages for processing larger      datasets. 
