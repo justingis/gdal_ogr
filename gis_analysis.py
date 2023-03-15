@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        gis_analysis.py
-# Description:     performs GIS analysis and processing
+# Description: performs GIS analysis and processing
 #
 # Author:      Justin Hawley (justin.hawley777@gmail.com)
 #
